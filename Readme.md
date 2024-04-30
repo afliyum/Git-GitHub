@@ -1,4 +1,5 @@
 # __Git and GitHub__
+## Status: Learning For my Self;
 ## What is a Git ?
 Git is a distributed version control system (DVCS) commonly used in software development to track changes in source code during the development process. It was created by Linus Torvalds in 2005, initially to manage the development of the Linux kernel.
 
@@ -12,7 +13,7 @@ Git is a distributed version control system (DVCS) commonly used in software dev
 Overall, Git provides a powerful and flexible way for developers to collaborate on projects, track changes, and manage different versions of their code.
 
 
-## More Easier
+# Easier Understanding
 ### What is a Git ?
 Think of Git as a tool that helps you manage the changes you make to your code when you're working on a project with others.
 
